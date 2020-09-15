@@ -74,7 +74,9 @@ print(evenNumbers)
  */
     print("\n")
 for _ in 1...5 {
+    print("\n")
     for number in 1...10{
+        
         print(number * 1, terminator: " ")
     }
     print("\n")
